@@ -21,8 +21,8 @@ Graphics API's:
   - DirextX.
 
 Work:
-  - Professional Group Project: rentathing.co.uk
-  - Online Portfolio: kyle-pearce.com
+  - Professional Group Project: https://rentathing.co.uk
+  - Online Portfolio: https://www.kyle-pearce.com
   - Honours Project: https://youtu.be/eCnJp-0JMSY
 
 Contact Info:
