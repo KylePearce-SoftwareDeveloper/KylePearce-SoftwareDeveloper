@@ -1,5 +1,5 @@
 ### Hello there! 👋
-### I am currently a Full-Stack Software Engineer for Sigma Labs XYZ.
+### I am currently a Full-Stack Software Engineer for Idox.
 
 Qualification:
   - University of the West of Scotland (2015 - 2020).
@@ -27,11 +27,11 @@ Work:
 
 Contact Info:
   - LinkedIn: https://www.linkedin.com/in/kyle-pearce-a7a904217/
-  - Email: kyle.pearce@sigmalabs.xyz
+  - Email: kylepearcesoftwaredeveloper@gmail.com
   - Phone: Available on request.
 
 Interesting Extras:
-  - I have been coding for six years now.
+  - I have been coding for eight years now.
   - Initially I was in the computer games coding field.
   - Now I am mostley coding Full-Stack web apps.
   - I have been doing Brazilian Jiu-Jitsu for four years.
